@@ -1,0 +1,11 @@
+C:\Users\azadkhan\source\repos\StringProcessingApp\bin\Debug\ConsoleApp1.exe.config
+C:\Users\azadkhan\source\repos\StringProcessingApp\bin\Debug\ConsoleApp1.exe
+C:\Users\azadkhan\source\repos\StringProcessingApp\bin\Debug\ConsoleApp1.pdb
+C:\Users\azadkhan\source\repos\StringProcessingApp\bin\Debug\nunit.framework.dll
+C:\Users\azadkhan\source\repos\StringProcessingApp\bin\Debug\nunit.framework.pdb
+C:\Users\azadkhan\source\repos\StringProcessingApp\bin\Debug\nunit.framework.xml
+C:\Users\azadkhan\source\repos\StringProcessingApp\obj\Debug\StringProcessing.csprojAssemblyReference.cache
+C:\Users\azadkhan\source\repos\StringProcessingApp\obj\Debug\StringProcessing.csproj.CoreCompileInputs.cache
+C:\Users\azadkhan\source\repos\StringProcessingApp\obj\Debug\StringProcessing.csproj.CopyComplete
+C:\Users\azadkhan\source\repos\StringProcessingApp\obj\Debug\ConsoleApp1.exe
+C:\Users\azadkhan\source\repos\StringProcessingApp\obj\Debug\ConsoleApp1.pdb
